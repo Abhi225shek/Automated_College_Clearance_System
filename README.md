@@ -70,8 +70,7 @@ Configure database connection in PHP files
 
 Start Apache and MySQL from XAMPP
 
-Access the project via http://localhost/project-folder-name
-
+Access the project via http://localhost/college-clearance-project1.1
 # Future Enhancements
 Email/SMS notifications
 
